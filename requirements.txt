@@ -1,7 +1,7 @@
 streamlit
+streamlit-back-camera-input
 pandas
 pillow
 streamlit-aggrid
 opencv-python
 numpy
-streamlit_back_camera_input
