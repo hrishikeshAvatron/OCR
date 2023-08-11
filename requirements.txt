@@ -1,6 +1,5 @@
 streamlit
 streamlit-back-camera-input
-streamlit_back_camera_input
 pandas
 pillow
 streamlit-aggrid
