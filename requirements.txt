@@ -1,2 +1,6 @@
+streamlit
+pandas
+pillow
+streamlit-aggrid
 opencv-python
 numpy
