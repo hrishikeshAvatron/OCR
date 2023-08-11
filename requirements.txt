@@ -4,4 +4,4 @@ pillow
 streamlit-aggrid
 opencv-python
 numpy
-streamlit-back-camera-input
+streamlit_back_camera_input
